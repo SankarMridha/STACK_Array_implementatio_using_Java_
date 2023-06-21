@@ -5,7 +5,7 @@ integer top storing the position of top of the stack. The stack elements can be 
 strings or user defined data types.
 */
 /*
-Code created by Sankar Kumar Mridha, date: 19.06.2023
+Code is Created by Sankar Kumar Mridha, date: 19.06.2023
 */
 
 import java.util.*;
