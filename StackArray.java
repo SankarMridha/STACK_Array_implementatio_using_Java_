@@ -1,3 +1,5 @@
+
+
 import java.util.*;
 public class StackArray {
 	public static final int MAX = 5;
