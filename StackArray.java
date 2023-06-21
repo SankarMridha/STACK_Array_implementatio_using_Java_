@@ -1,4 +1,12 @@
-
+/*
+Static Implementation of Stack (Array Implementation)
+A stack is implemented statically by using an array of size MAX to hold stack elements and an
+integer top storing the position of top of the stack. The stack elements can be integers, characters,
+strings or user defined data types.
+*/
+/*
+Code created by Sankar Kumar Mridha, date: 19.06.2023
+*/
 
 import java.util.*;
 public class StackArray {
